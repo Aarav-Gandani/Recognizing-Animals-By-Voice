@@ -1,0 +1,33 @@
+body{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-color:#541253;
+    color: white;
+}
+.header_div{
+    background:cadetblue;
+    color:#00ff7f;
+}
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color:gold ;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+font-family:'Macondo', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:springgreen;
+    bottom: 0;
+    width:100% ;
+    font-size: 18px;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(152, 150, 148);
+}
